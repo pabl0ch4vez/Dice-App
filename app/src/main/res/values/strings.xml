@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dice App</string>
+    <string name="roll">Roll</string>
+    <string name="one_dice">One Dice</string>
+    <string name="two_dices">Two Dices</string>
+    <string name="three_dices">Three Dices</string>
+    <string name="four_dices">Four Dices</string>
+    <string name="five_dices">Five Dices</string>
+    <string name="six_dices">Six Dices</string>
+</resources>
