@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.diceapp'
+    namespace 'pablo.app.diceapp'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.diceapp"
+        applicationId "pablo.app.diceapp"
         minSdk 21
         targetSdk 32
         versionCode 1
